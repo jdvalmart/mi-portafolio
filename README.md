@@ -34,11 +34,14 @@ Este es un proyecto de portafolio personal desarrollado con **Vue 3** como front
 🔗 Links a GitHub, LinkedIn y correo
 
 🔒 Listo para integrar autenticación o panel admin
----
 
+
+---
 ## 👨🏾‍🦱 Desarrollado por
- Juan David Valencia Martínez
- 💻 Ingeniero de Software | Apasionado por la tecnología y el desarrollo web.
+
+Juan David Valencia Martínez
+
+💻 Ingeniero de Software | Apasionado por la tecnología y el desarrollo web.
 
 ---
  Este proyecto está licenciado bajo la **MIT** License.
