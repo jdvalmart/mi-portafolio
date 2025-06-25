@@ -1,6 +1,6 @@
-# 🌐 Portafolio Personal — Vue 3 + Tailwind CSS + Laravel API
+# 🌐 Portafolio Jdvalmart
 
-Este es un proyecto de portafolio personal desarrollado con **Vue 3** como frontend y **Laravel 10** como backend, conectado mediante una API REST. Permite mostrar tus proyectos, información personal y contacto, todo con una interfaz moderna y responsiva.
+Este es un proyecto de portafolio personal desarrollado con **Vue 3** como frontend y **Laravel 10** como backend, conectado mediante una API REST. Permite mostrar mis proyectos, mi información personal y de contacto, todo con una interfaz moderna y responsiva.
 
 ---
 
@@ -49,6 +49,8 @@ mi-portafolio/
 git clone https://github.com/jdvalmart/mi-portafolio.git
 cd mi-portafolio
 
+---
+
 📦 Funcionalidades
 🌐 Página de inicio con presentación personal
 
@@ -63,3 +65,11 @@ cd mi-portafolio
 🔗 Links a GitHub, LinkedIn y correo
 
 🔒 Listo para integrar autenticación o panel admin
+---
+
+🧑 Desarrollador
+Juan David Valencia Martínez
+💻 Ingeniero de Software | Apasionado por la tecnología y el desarrollo web.
+
+---
+Este proyecto está licenciado bajo la MIT License.
