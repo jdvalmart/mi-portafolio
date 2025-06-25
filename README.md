@@ -19,39 +19,8 @@ Este es un proyecto de portafolio personal desarrollado con **Vue 3** como front
 - [CORS Configurado](https://laravel.com/docs/10.x/middleware#cors)
 
 ---
+## 📦 Funcionalidades
 
-## 📁 Estructura del Proyecto
-mi-portafolio/
-├── backend/ # Proyecto Laravel
-│ └── routes/
-│ └── api.php
-│ └── app/
-│ └── config/
-│ └── ...
-├── frontend/ # Proyecto Vue 3
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── services/
-│ │ │ └── axios.js
-│ │ └── App.vue
-│ ├── index.html
-│ └── vite.config.js
-
-
----
-
-## ⚙️ Instalación y Ejecución
-
-### 1. Clonar el repositorio
-
-```bash
-git clone https://github.com/jdvalmart/mi-portafolio.git
-cd mi-portafolio
-
----
-
-📦 Funcionalidades
 🌐 Página de inicio con presentación personal
 
 📄 Sección "Sobre mí"
@@ -67,9 +36,9 @@ cd mi-portafolio
 🔒 Listo para integrar autenticación o panel admin
 ---
 
-🧑 Desarrollador
-Juan David Valencia Martínez
-💻 Ingeniero de Software | Apasionado por la tecnología y el desarrollo web.
+## 👨🏾‍🦱 Desarrollado por
+ Juan David Valencia Martínez
+ 💻 Ingeniero de Software | Apasionado por la tecnología y el desarrollo web.
 
 ---
-Este proyecto está licenciado bajo la MIT License.
+ Este proyecto está licenciado bajo la **MIT** License.
